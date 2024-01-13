@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RobynKage
-- 👀 I’m interested in learning UX design.
+- 👋 Hi, I’m @JennyPhaka
+- 👀 I’m currently a Senior UX Designer.
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on various projects just to upscale myself and see what I'm truly getting myself into. 
-- 📫 How to reach me: email me at robynkagebrand@gmail.com
+- 📫 How to reach me: email me at jennyphaka@gmail.com
 
 <!---
 RobynKage/RobynKage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
